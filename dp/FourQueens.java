@@ -1,4 +1,4 @@
-package backTracking;
+package dp;
 
 /**
  * Print the possible combinations for 4 queens a 4*4 array.
